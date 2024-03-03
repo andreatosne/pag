@@ -4390,6 +4390,7 @@ input, select, textarea {
             margin: 0 auto; /* Centra la imagen horizontalmente */
       
         }
+		
 		.SUBTITULO {
 			background: linear-gradient(to right,#D9C1D7,#210F26, #86728C,#D9B9A7,#0D0D0D);
 			-webkit-background-clip: text;
