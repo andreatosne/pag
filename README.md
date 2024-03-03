@@ -1,1 +1,16 @@
-# pag
+<html>
+    <head class="">
+      <link rel="stylesheet" href="diseño.css">
+<div class="encabezado">
+ 
+<h1 class="tituloencabezado">hola</h1>
+
+</div>
+
+
+    </head>
+  
+    <body>
+        <h1 class="titulo">holi</h1>
+    </body>
+</html>
